@@ -31,3 +31,5 @@ export const Disabled: StoryObj<TextAreaProps> = {
     disabled: true,
   },
 }
+
+TextArea.displayName = 'TextArea'
